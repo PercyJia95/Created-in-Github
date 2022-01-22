@@ -1,0 +1,1 @@
+Darwin Percys-MacBook-Pro.local 20.6.0 Darwin Kernel Version 20.6.0: Tue Oct 12 18:33:38 PDT 2021; root:xnu-7195.141.8~1/RELEASE_ARM64_T8101 arm64
